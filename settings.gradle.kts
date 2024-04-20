@@ -21,4 +21,10 @@ dependencyResolutionManagement {
 
 rootProject.name = "basemm"
 include(":app")
- 
+include(":core:network")
+include(":core:common")
+include(":core:designsystem")
+include(":core:data")
+include(":core:model")
+include(":core:datastore")
+include(":core:database")
